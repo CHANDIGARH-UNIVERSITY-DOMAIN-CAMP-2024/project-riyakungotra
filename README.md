@@ -1,8 +1,8 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/aTJeVIOJ)
-Overview
+
+## Overview
 The Smart Disaster Management System is a mobile application designed to enhance disaster management processes. By leveraging real-time data, APIs, and cloud services, this app aims to provide timely information and emergency support during disaster situations.
 
-Features
+## Features
 - **Disaster Information**: Displays up-to-date disaster-related details.
 - **Emergency Contacts**: Quick access to essential emergency contact numbers.
 - **Real-Time Alerts**: Integrates with APIs and Firebase to deliver notifications.
